@@ -1,0 +1,21 @@
+{
+  "product": "FLASH WARP",
+  "version": "1.0.0",
+  "date": "2026-11-07",
+  "notes": [
+    "One key flips Warp on the clip in the Clip View, and a small line above the clip shows WARP ON or OFF and the mode.",
+    "Hold F on an audio clip: its GAIN and PITCH on screen, to drag or scroll (fingers up raises, INVERT turns it the other way), with the sample's ORIGINAL BPM, and with Warp off the tempo the new pitch gives it. The cents run on into the semitones. STACK puts PITCH under GAIN; LOCK POS starts the line where the clip starts; SIZE sets its size.",
+    "The device in the Squad's glass, with ? for a one-page guide, BUILD WITH US for your ideas, and CHECK FOR UPDATES: the app updates itself, signed by Triangle.",
+    "New in 1.0: the setup window checks this Mac's Live first. FLASH WARP needs Live 12 with Max 9; a Live 12 that still carries Max 8 is told to update, and a Mac with no Live 12 is told what it needs. Asked for by Ido.",
+    "The installer: FLASH WARP's own icon, and a DMG that opens on drag to Applications. Asked for by Ido."
+  ],
+  "credits": [],
+  "mac": {
+    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.0/FLASH-WARP-1.0.0-mac.zip",
+    "sha256": "79c8f48883556be90cf7463e750f7240acafb29b1b186b6fd22b62d40ef314b1",
+    "size": 1849131,
+    "kind": "zip",
+    "signature": "a19f290e3e34a48cee87995aad243711986fd5f3f9124fce25e895fb12a2cf471522cc5e5dd07622feb9305211147eb1527eed92ac6932e475ec130dbbb90d6fdd16b5f81eb91e01d208872272b28434774859765c6597b85fdb1742e5f4e79de84618b766494110071dd08d3afb80aabf4b34102e513049ce0537302d71475eb14dba26ce5958a18e29f73a488991f99f84f80695ebedfcd8b4cd387bdc34a3f5c2dc3bc2c26d4ffa62b02e3a6252432d737f1daf5c8e0d64f06563cb58fba83295d5b29f26f22b40cf9d87ff5099a731103fffd9dd7d646f42c811360bcdcbd37706474378733909840702cf672affdd499caf778fe11b560a05f575dacda4"
+  },
+  "win": null
+}
