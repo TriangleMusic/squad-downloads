@@ -1,21 +1,24 @@
 {
   "product": "FLASH WARP",
-  "version": "1.0.0",
-  "date": "2026-11-07",
+  "version": "1.0.1",
+  "date": "2026-11-08",
   "notes": [
-    "One key flips Warp on the clip in the Clip View, and a small line above the clip shows WARP ON or OFF and the mode.",
-    "Hold F on an audio clip: its GAIN and PITCH on screen, to drag or scroll (fingers up raises, INVERT turns it the other way), with the sample's ORIGINAL BPM, and with Warp off the tempo the new pitch gives it. The cents run on into the semitones. STACK puts PITCH under GAIN; LOCK POS starts the line where the clip starts; SIZE sets its size.",
-    "The device in the Squad's glass, with ? for a one-page guide, BUILD WITH US for your ideas, and CHECK FOR UPDATES: the app updates itself, signed by Triangle.",
-    "New in 1.0: the setup window checks this Mac's Live first. FLASH WARP needs Live 12 with Max 9; a Live 12 that still carries Max 8 is told to update, and a Mac with no Live 12 is told what it needs. Asked for by Ido.",
-    "The installer: FLASH WARP's own icon, and a DMG that opens on drag to Applications. Asked for by Ido."
+    "FLASH WARP for Windows: the same device, and a Windows app beside it that flashes WARP on screen and shows HOLD F's GAIN, PITCH and ORIGINAL BPM, with updates, BUILD WITH US and the guide. One setup, for this user, with no admin; it puts the device into Live's User Library. LOCK POS is Mac only for now. Asked for by Ido: every Triangle product ships for Mac and Windows.",
+    "On Windows the device says CTRL+K, Live's Key Map there."
   ],
   "credits": [],
   "mac": {
-    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.0/FLASH-WARP-1.0.0-mac.zip",
-    "sha256": "79c8f48883556be90cf7463e750f7240acafb29b1b186b6fd22b62d40ef314b1",
-    "size": 1849131,
+    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.1/FLASH-WARP-1.0.1-mac.zip",
+    "sha256": "e0c1b81239dc2047c08c9882ad299c4f1ea1ee46c1cfec66d1139f89879f4084",
+    "size": 1851823,
     "kind": "zip",
-    "signature": "a19f290e3e34a48cee87995aad243711986fd5f3f9124fce25e895fb12a2cf471522cc5e5dd07622feb9305211147eb1527eed92ac6932e475ec130dbbb90d6fdd16b5f81eb91e01d208872272b28434774859765c6597b85fdb1742e5f4e79de84618b766494110071dd08d3afb80aabf4b34102e513049ce0537302d71475eb14dba26ce5958a18e29f73a488991f99f84f80695ebedfcd8b4cd387bdc34a3f5c2dc3bc2c26d4ffa62b02e3a6252432d737f1daf5c8e0d64f06563cb58fba83295d5b29f26f22b40cf9d87ff5099a731103fffd9dd7d646f42c811360bcdcbd37706474378733909840702cf672affdd499caf778fe11b560a05f575dacda4"
+    "signature": "825686bdb35dd445b2a657b7dd7b666a5d3d1c9397f01f2da056ce865dbed933204a3e798e5fa62d7f9bf5b22121e209a87b350dbd4616ca662170d157f559b1d8e2fdaff066278f798a57fc8b692011d8e17a64a0fe3bd0af386ea7a38c7a37cb70e5ce917823dd7edb6d9b658d78576d761887b2cd8c280d72ff606a3835fc1e87fc416fec25545eeb72756ad4d20edea0538a4a34f82611b7551cb28fbb29e4024a9937ab042435298b2d8892c83a36f8972d22fcb10d454fa338ac618695556506374e98c4d0478f3dc7ede6d1f11420e90dd910eff38c30e3b606b8dbc619d3a70d478e6a77808f8cc766cea28d457743785b8d2bab1849205a8432ca67"
   },
-  "win": null
+  "win": {
+    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.1/Triangle-Flash-Warp-1.0.1-Setup.exe",
+    "sha256": "71ee517c57e1b2eb013746595b4785ee218fca22e5991b43713bd38065d54b7a",
+    "size": 48478437,
+    "kind": "exe",
+    "signature": "1df0a1ce329c7ffd4ca48591b847aa9df465c7f5311e002644fe309c76d564cbd16f211b23eb60580b10c255d3bc34c0c5d743142880d46bed6dc94e4dc4baffd80b83da4a31bfec953f1a45d7b5888d94752e656e7c74fca69497815a51e21e79e8b465fd6c7b7088ab4c9f655c28702ddaf956d7226a3317400782fdbb2024b7a60fae435375cd61b45d9e81681d373331a6c4065e6e370702631761c43617e867c6ac79f8f5ff7c1a6d0ec114a9753738cc3c6308c3b6b8123b0e0ec721ebc9a30e793ee5f54af0b42f6565eba12497e989c73a2d8fc4eae1eabd5e0e899a7b2c84f2002ee0d71b06ee060ef44309de6f7dbcc886b481c616ca977ad6d5a6"
+  }
 }
