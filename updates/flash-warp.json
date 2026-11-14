@@ -1,24 +1,25 @@
 {
   "product": "FLASH WARP",
-  "version": "1.0.1",
-  "date": "2026-11-08",
+  "version": "1.0.2",
+  "date": "2026-11-15",
   "notes": [
-    "FLASH WARP for Windows: the same device, and a Windows app beside it that flashes WARP on screen and shows HOLD F's GAIN, PITCH and ORIGINAL BPM, with updates, BUILD WITH US and the guide. One setup, for this user, with no admin; it puts the device into Live's User Library. LOCK POS is Mac only for now. Asked for by Ido: every Triangle product ships for Mac and Windows.",
-    "On Windows the device says CTRL+K, Live's Key Map there."
+    "Choose what HOLD F shows: GAIN, PITCH and BPM beside HOLD F on the device, each on or off, so the line can be just the gain, with nothing else in the way. One part always stays on, and the choice is kept on this computer. Asked for by Ido.",
+    "With GAIN or PITCH hidden, STACK has nothing to stack: it is struck through and says what it needs, and it stacks again once both are back.",
+    "BPM on its own, with no tempo known, says ORIGINAL BPM NOT FOUND instead of showing an empty line."
   ],
   "credits": [],
   "mac": {
-    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.1/FLASH-WARP-1.0.1-mac.zip",
-    "sha256": "e0c1b81239dc2047c08c9882ad299c4f1ea1ee46c1cfec66d1139f89879f4084",
-    "size": 1851823,
+    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.2/FLASH-WARP-1.0.2-mac.zip",
+    "sha256": "b115a4a5554d31b579a7a55aa602e8be57ae8d6c695214694c78f3e753986dbf",
+    "size": 1872005,
     "kind": "zip",
-    "signature": "825686bdb35dd445b2a657b7dd7b666a5d3d1c9397f01f2da056ce865dbed933204a3e798e5fa62d7f9bf5b22121e209a87b350dbd4616ca662170d157f559b1d8e2fdaff066278f798a57fc8b692011d8e17a64a0fe3bd0af386ea7a38c7a37cb70e5ce917823dd7edb6d9b658d78576d761887b2cd8c280d72ff606a3835fc1e87fc416fec25545eeb72756ad4d20edea0538a4a34f82611b7551cb28fbb29e4024a9937ab042435298b2d8892c83a36f8972d22fcb10d454fa338ac618695556506374e98c4d0478f3dc7ede6d1f11420e90dd910eff38c30e3b606b8dbc619d3a70d478e6a77808f8cc766cea28d457743785b8d2bab1849205a8432ca67"
+    "signature": "98b0b60446cee0ee41dee1f3c19bdc3a3dd01ca57d328186aa5f7acedacb8e9b92b5d1246cdc757f45cd8e9335a28dce79409c798b3b8932cd85b91d211b9e1d6150a6896c1c599d46c793fe882124ec3017b5f7a1a18a40840883e5cd6de28b89082a4ff8f66decb78b8d899daf014f1ab9fdf88318c4d79d76e4c98f2236603e7b5a4a19a51c16ed02ae596dbf12120350aa0735f2577cc55fefd6edf2815a2f3c04d4fad862c422af8ace29c9dcc1393ad8832c6327a6b20759e79a05390a144c3964b35ce1635cfc3273376c4f5f50ad4a6602001f585b41f6d81e13d9e6b3fd55ea97bff645b0a0a2fbc621ad01e6932e3fcaceaf5cb394f559b15504f5"
   },
   "win": {
-    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.1/Triangle-Flash-Warp-1.0.1-Setup.exe",
-    "sha256": "71ee517c57e1b2eb013746595b4785ee218fca22e5991b43713bd38065d54b7a",
-    "size": 48478437,
+    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/flash-warp-v1.0.2/Triangle-Flash-Warp-1.0.2-Setup.exe",
+    "sha256": "cc6c2fea5e8cb3b3170db47b5c724e7d8510f30fe9a777ed8ecc4bd17b781778",
+    "size": 48845189,
     "kind": "exe",
-    "signature": "1df0a1ce329c7ffd4ca48591b847aa9df465c7f5311e002644fe309c76d564cbd16f211b23eb60580b10c255d3bc34c0c5d743142880d46bed6dc94e4dc4baffd80b83da4a31bfec953f1a45d7b5888d94752e656e7c74fca69497815a51e21e79e8b465fd6c7b7088ab4c9f655c28702ddaf956d7226a3317400782fdbb2024b7a60fae435375cd61b45d9e81681d373331a6c4065e6e370702631761c43617e867c6ac79f8f5ff7c1a6d0ec114a9753738cc3c6308c3b6b8123b0e0ec721ebc9a30e793ee5f54af0b42f6565eba12497e989c73a2d8fc4eae1eabd5e0e899a7b2c84f2002ee0d71b06ee060ef44309de6f7dbcc886b481c616ca977ad6d5a6"
+    "signature": "a0ce43374576d9e9140d134a192978bba4ca104bb1ec6f3b2a5babdfdc8c21bac1fe1a7b020b636b793a02acf9091159e5814cec0198f06e9f8be3bb8525f554aadaaa003e9cd5b1fbeee33f78220a86afdbcaf968710c934a3d8a5fce972d5ed95a2ddcfe70ffc3d3c5c73139146b3aa58288aad85b75885447f600dca27a3623fdabd063a17ee143892d53663b93707a20ce48f0edccb83586af2e149f0fd2adb6067225cfd0aeb7557f800726ed34838c7e41e5378b6cd6d45f6e11ccffa47c3dd7bf25a0d54462c9c68fdb4c6ab807891cce944824323c1d75f8170c7dca6a52c53c86bf33b9c4f0a7fcdebe6c779f4e0cee8037ad95a4bdde93ce570aa1"
   }
 }
