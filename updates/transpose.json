@@ -1,0 +1,19 @@
+{
+  "product": "TRANSPOSE",
+  "version": "1.0.0",
+  "notes": [
+    "Transpose any MIDI keyboard into the DAW: TRANSPOSE sits between the keyboard (the Komplete Kontrol A61 is picked by itself) and the DAW, and shifts every note by up to three octaves, out of its own MIDI port, Triangle Transpose. Asked for by Ido.",
+    "Set the song's key in one click while you keep playing in C, or step a semitone or an octave from the window, the computer's arrow keys, or a button, pedal or key on the keyboard (MIDI LEARN).",
+    "A note held while the transpose changes is released where it started, so nothing hangs; pitch bend, mod and every other message pass untouched."
+  ],
+  "credits": [],
+  "mac": {
+    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/transpose-v1.0.0/TRANSPOSE-1.0.0-mac.zip",
+    "sha256": "d341b68c131969c98baa71c8e77c852bb97d4efecc8a33c0e964fbc3096f3482",
+    "size": 1493562,
+    "kind": "zip",
+    "signature": "63e0ab7fcd63c448925a0ea1ecaa2095966cc57d7c628c83cc42f26a3cbb86b5beac32caa1aac4203e37a683ef8070dc661b4b14ad56e404b3973c746c362c4fdfd32f49fefd03f4a193b645e6773eec940d752858674177dd31e39740eeda1e1068876427b86836ae25be3bf303141cf78cf94708b2c3f49cea9349fb0a44e888b1cdf8564d00e040633682aab6b1dc9d64f0d2b1cad1cd49475eeed7320a0b52275339f1684eb2693d233dc21962145b6c5be2153fc79844ab75b499d823a0048988b9941fe81e57afa79fd8b0ff26db731d4755b439883c896fef33d836eca02d666ce2ad9a59af98ac1cc9515024af07aff6390ff87ae495f3c36c8357d8"
+  },
+  "win": null,
+  "date": "2026-11-17"
+}
