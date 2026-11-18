@@ -1,19 +1,19 @@
 {
   "product": "TRANSPOSE",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "notes": [
-    "Transpose any MIDI keyboard into the DAW: TRANSPOSE sits between the keyboard (the Komplete Kontrol A61 is picked by itself) and the DAW, and shifts every note by up to three octaves, out of its own MIDI port, Triangle Transpose. Asked for by Ido.",
-    "Set the song's key in one click while you keep playing in C, or step a semitone or an octave from the window, the computer's arrow keys, or a button, pedal or key on the keyboard (MIDI LEARN).",
-    "A note held while the transpose changes is released where it started, so nothing hangs; pitch bend, mod and every other message pass untouched."
+    "Every MIDI keyboard at once: ALL MIDI KEYBOARDS is the new default input, so whatever you play into this Mac is transposed, and a keyboard plugged in later joins by itself. Asked for by Ido.",
+    "Two keyboards on the same key each release their own note, and a keyboard unplugged while you hold a key lets go of it, so nothing hangs.",
+    "One keyboard only is still a choice in INPUT. IAC buses and a keyboard's DAW-control port are never listened to, so nothing the DAW sends loops back in."
   ],
   "credits": [],
   "mac": {
-    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/transpose-v1.0.0/TRANSPOSE-1.0.0-mac.zip",
-    "sha256": "d341b68c131969c98baa71c8e77c852bb97d4efecc8a33c0e964fbc3096f3482",
-    "size": 1493562,
+    "url": "https://github.com/TriangleMusic/squad-downloads/releases/download/transpose-v1.1.0/TRANSPOSE-1.1.0-mac.zip",
+    "sha256": "b717fb6b0eb609f1c33eea013682137cb66da4409b531733df2835c0e8769e86",
+    "size": 1520562,
     "kind": "zip",
-    "signature": "63e0ab7fcd63c448925a0ea1ecaa2095966cc57d7c628c83cc42f26a3cbb86b5beac32caa1aac4203e37a683ef8070dc661b4b14ad56e404b3973c746c362c4fdfd32f49fefd03f4a193b645e6773eec940d752858674177dd31e39740eeda1e1068876427b86836ae25be3bf303141cf78cf94708b2c3f49cea9349fb0a44e888b1cdf8564d00e040633682aab6b1dc9d64f0d2b1cad1cd49475eeed7320a0b52275339f1684eb2693d233dc21962145b6c5be2153fc79844ab75b499d823a0048988b9941fe81e57afa79fd8b0ff26db731d4755b439883c896fef33d836eca02d666ce2ad9a59af98ac1cc9515024af07aff6390ff87ae495f3c36c8357d8"
+    "signature": "616c2c36ed03d99d0da01fc0bdf9e8027484d37fc59c933bf2d1b0586929ec60c099f3872d784667ccd3fca522d4fdfc068a91553dcafc4b702d71164e0c61ab56c6b4c47294b3da323983ad40735529257507ab7cd7fc388e3f4a52dbe7aee21924313c1ce9026f97758ff9c19122c08a8fdd1057ecace7a47713fa84ec294337c2ee05c8a72a02779fe89c1f0d32828f7bfe5a2e1122ca60ec553d6bbc7960d879076deb1185ef6267ae5fdc9b52fdda5dd060ef9d664bf8eacc81b70472d29106a257b609a07ef6ffcaa677a67a792b0aa1764c07c3f5c3028c4988df85cce659129cdd4778161529150b971aa2dba67ca2a1cf47da926443bbf13e324181"
   },
   "win": null,
-  "date": "2026-11-17"
+  "date": "2026-11-18"
 }
